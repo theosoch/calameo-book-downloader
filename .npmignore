@@ -1,0 +1,9 @@
+/node_modules/
+
+/src/test/
+/src/test/**
+
+/dist/test/
+/dist/test/**
+
+/dist/**/tmp/**/*
